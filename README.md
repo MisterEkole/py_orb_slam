@@ -18,3 +18,11 @@ Install dependencies using the following command:
 
 ```bash
 pip install opencv-python numpy g2o
+
+## Reference Paper
+
+Please refer to the original paper for detailed information on the ORB SLAM algorithm:
+[ORBSLAM-based Endoscope Tracking and 3D Reconstruction](https://arxiv.org/abs/1608.08149)
+
+## Work in Progress
+This implementation is a work in progress. Feel free to contribute if you've read the paper or have some suggestions.
