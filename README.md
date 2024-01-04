@@ -13,12 +13,6 @@ This implementation includes the tracking and mapping components of the ORB SLAM
 - OpenCV
 - NumPy
 - g2o (for Bundle Adjustment)
-
-Install dependencies using the following command:
-
-```bash
-pip install opencv-python numpy g2o
-
 ## Reference Paper
 
 Please refer to the original paper for detailed information on the ORB SLAM algorithm:
@@ -26,3 +20,11 @@ Please refer to the original paper for detailed information on the ORB SLAM algo
 
 ## Work in Progress
 This implementation is a work in progress. Feel free to contribute if you've read the paper or have some suggestions.
+
+Install dependencies using the following command:
+
+```bash
+pip install opencv-python numpy g2o
+
+
+
